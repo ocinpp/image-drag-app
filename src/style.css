@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@theme {
+  /* Optional: Customize theme */
+  /* --color-blue-50: oklch(0.95 0.1 240);
+  --color-orange-50: oklch(0.95 0.1 60); */
+}
